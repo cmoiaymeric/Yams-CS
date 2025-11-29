@@ -11,7 +11,7 @@
 Ce projet a pour but de créer un jeu de Yam's interactif, qui ecrit dans un fichier JSON, qui sera ensuite lu par une page HTML.
 
 ## Organisation
-* Travail en trinôme, avec [Aymeric F.](https://github.com/cmoiaymeric) et [Sarah W.](https://github.com/Sarahw15)
+* Travail en trinôme, avec [Mathéo F.](https://github.com/Onefrenchboi) et [Sarah W.](https://github.com/Sarahw15)
 
 ## Comment lancer le programme
 
@@ -41,7 +41,7 @@ This project aims to create an interactive Yam's game, which writes in a JSON fi
 
 ## Organization
 
-* Three person team, with [Aymeric F.](https://github.com/cmoiaymeric) and [Sarah W.](https://github.com/Sarahw15)
+* Three person team, with [Mathéo F.](https://github.com/cmoiOnefrenchboi) and [Sarah W.](https://github.com/Sarahw15)
 
 ## How to run the program
 
